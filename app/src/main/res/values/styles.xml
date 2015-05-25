@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary" type="color">#F08C35</item>-->
+
+        <item name="colorControlHighlight" type="color">#E65100</item>
+        <item name="colorButtonNormal">#F08C35</item>
+
+
+    </style>
+</resources>
